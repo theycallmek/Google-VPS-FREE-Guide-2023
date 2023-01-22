@@ -3,7 +3,8 @@
 1) Go to https://console.cloud.google.com/
 
 2) Click "Activate Cloud Shell" in the top right corner as shown in the image below:
-  -![Activate Cloud Shell](https://i.imgur.com/1DNycAe.jpg)
+
+![Activate Cloud Shell](https://i.imgur.com/1DNycAe.jpg)
 
 3) In the console that appears at the bottom of the page enter the command:
 ```
