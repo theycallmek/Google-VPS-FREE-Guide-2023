@@ -27,3 +27,6 @@ docker run -p 6070:80 dorowu/ubuntu-desktop-lxde-vnc
 I ran a speed test and a linux benchmark on my own VPS and you can see the results below. Not bad for free!
 
 ![VPS Launched](https://i.imgur.com/ujBSZg5.jpg)
+
+# WARNING:
+DO NOT TRY TO MINE ON THESE. YOUR ACCOUNT WILL BE PERMANENTLY DISABLED WITHIN A FEW MINTUES. You have been warned.
